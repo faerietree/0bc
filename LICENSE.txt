@@ -1,0 +1,34 @@
+In the following text the term "file" explicitely also includes directory, a special file containing zero or more files.
+Each file is accompanied by a license. If no license is specified per file then the next higher license in the file tree applies.
+
+A file with no license accompanying it and no license in the file tree above towards the file tree's root implicitely either is
+Copyright of their respective owners if noted or of worlddevelopment e.V., the network of volunteering "Magic Philosophers" under the permissive license
+
+Creative Commons Attribution-Share Alike in the most recent version
+(CC-by-sa) license, available at http://creativecommons.org/licenses/by-sa/4.0/ .
+
+Without any warranties, exempli gratia guarantee of completeness or of correctness, when publishing, distributing or using or building upon any of the contents of any of the files the license requires 
+* A clearly visible attribution, which must include
+  * A link to the license: http://creativecommons.org/licenses/by-sa/4.0/,
+  * "worlddevelopment e.V.", "Magic Philosophers" or each file's respective owners as original authors including links to the authors respective websites,
+  * A link to each file's original content, e.g. the file in a repository.
+
+* A release of the file or files (and any
+  modifications you have made to it) under the CC-by-sa license, too.
+
+
+Some files have been originally created by artists and programmers by Wildfire Games and Council of Modders. http://wildfiregames.com/
+
+
+Some of the files in the "textures/" directory are derived from materials provided by CGTextures (http://www.cgtextures.com/). The original materials are the property of CGTextures or its contributors. Special permission has been granted by CGTextures to distribute these derived textures as CC-BY-SA. (This has no effect on the standard licensing of CGTextures materials, or on any other work derived from them.)
+
+All CGTextures materials have been altered from their original form. To access original super-high resolution CGTextures materials, please visit http://www.cgtextures.com/ .
+
+
+Main sources are
+
+* http://opengameart.org/
+* http://blendswap.com/
+* http://blenderartists.org/
+
+* Artists of one of all aforementioned groups of collaborators, organizations, networks, communities.
