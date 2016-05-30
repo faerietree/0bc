@@ -1,0 +1,9 @@
+{
+    "name": "0bc",
+    "version": "0.1.0",
+    "label": "0 B.C. Time Machine",
+    "url": "github.com/faerietree/0bc",
+    "description": "Travel through history, try to prevents conquers and defend against superior technology or go the mainstream route.",
+    "dependencies": ["bronze_age", "promotion_boni_via_tech"],
+    "type": "realistic simulation, game"
+}
